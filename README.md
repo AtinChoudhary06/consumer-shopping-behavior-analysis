@@ -97,7 +97,7 @@ The Power BI dashboard provides:
 ---
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 # 🔑 Key Business Insights
 
