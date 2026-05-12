@@ -95,9 +95,9 @@ The Power BI dashboard provides:
 - Interactive filters for detailed business exploration
 
 ---
-## DashBoard Preview
-![Dashboard Preview].
-(dashboard_preview.png)
+## Dashboard Preview
+
+![Dashboard Preview](images/dashboard_preview.png)
 
 # 🔑 Key Business Insights
 
