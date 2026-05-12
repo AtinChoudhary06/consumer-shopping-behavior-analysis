@@ -95,6 +95,9 @@ The Power BI dashboard provides:
 - Interactive filters for detailed business exploration
 
 ---
+## DashBoard Preview
+![Dashboard Preview].
+(dashboard_preview.png)
 
 # 🔑 Key Business Insights
 
@@ -134,16 +137,9 @@ Some top-rated products receive lower purchase volumes, suggesting discoverabili
 - **Records:** ~3,900 rows
 - **Features:** 18 columns
 
-### Dataset Includes
-- Customer demographics
-- Purchase amounts
-- Product categories
-- Discounts
-- Subscription status
-- Review ratings
-- Purchase history
+- **Source:** Kaggle — [Customer Shopping Behavior Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+- **Size:** ~3,900 rows, 18 columns
 
----
 
 # 🎯 Skills Demonstrated
 
@@ -171,4 +167,9 @@ Potential future enhancements:
 # 📌 Author
 
 ### ATIN CHOUDHARY
-Data Analytics & Business Intelligence Enthusiast
+
+Aspiring Data Analyst | Python · SQL · Power BI
+
+📧 atin06choudhary@gmail.com
+
+🔗 GitHub Portfolio
