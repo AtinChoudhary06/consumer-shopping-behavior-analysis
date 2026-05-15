@@ -24,6 +24,21 @@ This project analyzes customer purchase data to generate actionable business ins
 
 ---
 
+# 📊 Dashboard Highlights
+
+The Power BI dashboard provides:
+- Revenue analysis by demographic groups
+- Subscription customer performance tracking
+- Customer loyalty segmentation
+- Discount impact on purchasing behavior
+- Seasonal sales trends
+- Interactive filters for detailed business exploration
+
+---
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
 # 🛠️ Tools & Technologies Used
 
 | Tool | Purpose |
@@ -83,21 +98,6 @@ Built a stakeholder-friendly Power BI dashboard featuring:
 - Interactive slicers and drill-through reports
 
 ---
-
-# 📊 Dashboard Highlights
-
-The Power BI dashboard provides:
-- Revenue analysis by demographic groups
-- Subscription customer performance tracking
-- Customer loyalty segmentation
-- Discount impact on purchasing behavior
-- Seasonal sales trends
-- Interactive filters for detailed business exploration
-
----
-## Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
 
 # 🔑 Key Business Insights
 
